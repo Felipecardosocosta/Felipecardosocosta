@@ -17,7 +17,9 @@
 
 | Linguagens             | Frameworks / Bibliotecas       | Ferramentas           |
 | ---------------------- | ----------------------------- | --------------------- |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript) | ![Git](https://img.shields.io/badge/-Git-333333?logo=git)   | ![VS Code](https://img.shields.io/badge/-VSCode-333333?logo=visualstudiocode) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript) |     | ![Git](https://img.shields.io/badge/-Git-333333?logo=git)         |
+|  |   | ![VS Code](https://img.shields.io/badge/-VSCode-333333?logo=visualstudiocode) |
+|         |                                 |                       |
 
 
 ---
