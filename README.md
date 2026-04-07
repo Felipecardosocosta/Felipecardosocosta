@@ -9,7 +9,7 @@
 - 🎓 Técnico em Desenvolvimento de Sistemas (SENAI SC) — em andamento
 - 💼 Experiência em instalação e manutenção de ar-condicionado (CISNE Ar Condicionado)
 - 🎯 Objetivo: Estágio em Desenvolvimento de Sistemas
-- 🌱 Atualmente explorando: JavaScript,Git,React,TypeScript,Express,NodeJs,MySQL
+- 🌱 Atualmente explorando: JavaScript, Git, React, TypeScript, Express, NodeJs, MySQL
 
 ---
 
@@ -27,7 +27,7 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-![Metrics](https://metrics.lecoq.io/Felipecardosocosta?template=classic&base.header=0&base.activity=0&base.community=0)
+  <img src="https://streak-stats.demolab.com?user=Felipecardosocosta&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
