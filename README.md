@@ -9,18 +9,18 @@
 - 🎓 Técnico em Desenvolvimento de Sistemas (SENAI SC) — em andamento
 - 💼 Experiência em instalação e manutenção de ar-condicionado (CISNE Ar Condicionado)
 - 🎯 Objetivo: Estágio em Desenvolvimento de Sistemas
-- 🌱 Atualmente explorando: JavaScript, Git, Controle de Versão, Clean Code
+- 🌱 Atualmente explorando: JavaScript,Git,React,TypeScript,Express,NodeJs,MySQL
 
 ---
 
 ## 🛠 Tecnologias e Ferramentas
 
-| Linguagens             | Frameworks / Bibliotecas       | Ferramentas           |
-| ---------------------- | ----------------------------- | --------------------- |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript) |     | ![Git](https://img.shields.io/badge/-Git-333333?logo=git)         |
-|  |   | ![VS Code](https://img.shields.io/badge/-VSCode-333333?logo=visualstudiocode) |
-|         |                                 |                       |
-
+| Linguagens | Frameworks / Bibliotecas | Ferramentas |
+| :--- | :--- | :--- |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript) | ![React](https://img.shields.io/badge/-React-333333?logo=react) | ![Git](https://img.shields.io/badge/-Git-333333?logo=git) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?logo=typescript) | ![Express](https://img.shields.io/badge/-Express-333333?logo=express) | ![VS Code](https://img.shields.io/badge/-VSCode-333333?logo=visualstudiocode) |
+| | | ![Node.js](https://img.shields.io/badge/-Node.js-333333?logo=node.js) |
+| | | ![MySQL](https://img.shields.io/badge/-MySQL-333333?logo=mysql) |
 
 ---
 
