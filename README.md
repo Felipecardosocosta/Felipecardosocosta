@@ -27,7 +27,7 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipecardosocosta&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+ [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ---
